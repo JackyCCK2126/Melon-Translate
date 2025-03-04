@@ -1,2 +1,2 @@
 # Melon-Translate
-A screen translator for computer
+A screen translator for computer.
