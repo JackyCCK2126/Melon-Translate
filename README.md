@@ -16,7 +16,7 @@ Note: **>> This app is Not Damaged! <<**
 ### Installation guide
 
 1. Drag the app into the Applications folder
-2. Run the following command in Terminal app (Because the author doesn't pay 99 USD/year to apple to list in AppStore)
+2. Run the following command in Terminal app (Because the author doesn't pay 99 USD/year to apple to list in AppStore) \
    **👉` xattr -d com.apple.quarantine '/Applications/Melon Translate.app'`**
 3. In mac settings, enable following permissions (You can also launch the app first)
    -**Input Monitoring**: for using shortcut in diffrent apps
