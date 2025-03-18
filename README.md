@@ -1,4 +1,4 @@
-# Demo
+# Demo Video
 [![Watch the video](https://github.com/JackyCCK2126/Melon-Translate/raw/refs/heads/main/demo1.png)](https://github.com/JackyCCK2126/Melon-Translate/raw/refs/heads/main/demo1.mp4)
 
 # ◈ Need to install Tesseract Text Recognition Engine
