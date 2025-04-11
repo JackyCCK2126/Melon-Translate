@@ -12,7 +12,7 @@
 
 <br>
 
-- ### Windows:
+- ### Windows: (Melon translate does not support Windows for now)
   1. Download tesseract installer from [github page](https://github.com/tesseract-ocr/tesseract/releases#:~:text=6%20other%20contributors-,Assets,-3](https://github.com/tesseract-ocr/tesse)act/releases#:~:text=6%20other%20contributors-,Assets,-3)
 
 ## 2. Install Melon Translate
