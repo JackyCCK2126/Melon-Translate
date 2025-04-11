@@ -1,6 +1,7 @@
 # Introduction
 This App is a translator for your screen.\
 Snip a rectangle to scan and translate.
+> ### [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
 
 # Demo Video
 
