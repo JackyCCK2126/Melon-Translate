@@ -1,7 +1,18 @@
 # Introduction
-This App is a translator for your screen.\
-Snip a rectangle to scan and translate.
+Melon translate is a powerful translator for computer screen.\
+- Translate anywhere you want.\
+- Drag the screen to scan and translate in seconds.
 > ### [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
+
+## What's different from others?
+- Tidy & Modern UI
+- Quick
+- Less memory consumption
+- Tiny
+- Accurate enough
+- Free
+- Private
+- Efficient
 
 # Demo Video
 
