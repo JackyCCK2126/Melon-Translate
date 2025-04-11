@@ -1,18 +1,16 @@
 # Introduction
-Melon translate is a powerful translator for computer screen.\
-- Translate anywhere you want.\
+Melon translate is a powerful translator for computer screen.
+- Translate anywhere you want.
 - Drag the screen to scan and translate in seconds.
 > ### [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
 
 ## What's different from others?
-- Tidy & Modern UI
-- Quick
-- Less memory consumption
-- Tiny
-- Accurate enough
-- Free
-- Private
-- Efficient
+1. Tidy & Modern UI
+2. Headless (Not occupying screen space, set it and forget it)
+3. Accurate + Quick
+4. Low Memory Consumption
+5. Private
+6. Free
 
 # Demo Video
 
