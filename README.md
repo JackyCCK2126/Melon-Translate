@@ -2,39 +2,46 @@
 
 ![video](https://github.com/JackyCCK2126/Melon-Translate/raw/refs/heads/main/Demo.gif)
 
-# ◈ Need to install Tesseract Text Recognition Engine
+# ◈ How to Setup the App?
 
-### On Mac:
+## 1. Install Google's Tesseract Text Recognition Engine
 
-1. Install Brew: [https://brew.sh](https://brew.sh/)
-2. Install with Brew: `brew install tesseract-lang`
+- ### MacOS:
+  1. Install [Brew](https://brew.sh/) (The CLI appstore for Mac)
+  2. Run command in **Terminal** app: `brew install tesseract-lang`
 
-### On Windows
+<br>
 
-- [https://github.com/tesseract-ocr/tesseract/releases#:~:text=6%20other%20contributors-,Assets,-3](https://github.com/tesseract-ocr/tesseract/releases#:~:text=6%20other%20contributors-,Assets,-3)
+- ### Windows:
+  1. Download tesseract installer from [github page](https://github.com/tesseract-ocr/tesseract/releases#:~:text=6%20other%20contributors-,Assets,-3](https://github.com/tesseract-ocr/tesse)act/releases#:~:text=6%20other%20contributors-,Assets,-3)
 
-# ◈ MacOS Guide
+## 2. Install Melon Translate
+- ### MacOS:
 
-Note: **>> This app is Not Damaged! <<**
+  > Note: **>> This app is Not Damaged! <<**
 
-### Installation guide
+  1. Drag the app into the Applications folder
+  2. Run the following command in **Terminal** app to repair the app\
+  **👉 ` xattr -d com.apple.quarantine '/Applications/Melon Translate.app' `**
 
-1. Drag the app into the Applications folder
-2. Run the following command in Terminal app (Because the author doesn't pay 99 USD/year to apple to list in AppStore) \
-   **👉` xattr -d com.apple.quarantine '/Applications/Melon Translate.app'`**
-3. In mac settings, enable following permissions (You can also launch the app first)
-   -**Input Monitoring**: for using shortcut in diffrent apps
+  3. In mac settings, enable following permissions (You can also launch the app first)
+     - **Input Monitoring**: for using shortcut in diffrent apps
+     - **Screen Recording**: for snipping
+  4. Launch the App
 
-   - **Screen Recording**: for snipping
-4. Launch the App
+<br>
 
-# ◈ Windows Guide:
+- ### Windows:
 
-Not supported yet.
+  - Not supported yet.
 
-# ◈ Security Level:
+<br>
+
+---
+
+# ◈ Security Information
 
 - No data is collected by the author
-- OCR relies on local Tesseract engine by Google.
-- Translation service: googletrans
-- Image is deleted immediately from the cache after each scan
+- OCR relies on local Tesseract engine by Google
+- Translation service (online): googletrans
+- Captured image is deleted immediately from the cache after text-scanning
