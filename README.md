@@ -39,7 +39,7 @@ Melon translate is a powerful translator for computer screen.
   **👉 ` xattr -d com.apple.quarantine '/Applications/Melon Translate.app' `**
 
   3. In mac settings, enable following permissions (You can also launch the app first)
-     - **Accessibility**: to enable hotkey anywhere
+     - **Accessibility**: to enable hotkey everywhere
      - **Screen Recording**: to allow snipping
   4. Launch the App
 
