@@ -14,7 +14,7 @@ Melon translate is a powerful translator for computer screen.
 
 # Demo Video
 
-![video](https://github.com/JackyCCK2126/Melon-Translate/raw/refs/heads/main/Demo.gif)
+<img src="https://github.com/JackyCCK2126/Melon-Translate/raw/refs/heads/main/Demo.gif"  width="70%" height="70%"/>
 
 # ◈ How to Setup the App?
 
