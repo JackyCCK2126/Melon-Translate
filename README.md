@@ -1,5 +1,5 @@
-# Introduction
-Melon translate is a powerful translator for computer screen.
+# ◈ Introduction
+Melon Translate is a powerful translator for a computer screen.
 - Translate anywhere you want (image | video | non-selectable text)
 - Drag the screen to scan and translate in seconds.
 > ### [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
