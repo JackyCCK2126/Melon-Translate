@@ -12,7 +12,7 @@ Melon Translate is a powerful translator for a computer screen.
 5. Private
 6. Free
 
-# Demo Video
+## Demo Video
 
 <img src="https://github.com/JackyCCK2126/Melon-Translate/raw/refs/heads/main/Demo.gif"  width="70%" height="70%"/>
 
