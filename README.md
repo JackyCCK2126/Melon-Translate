@@ -1,8 +1,9 @@
 # ◈ Introduction
-Brush-LM is an AI tool that is being developed. It is currently a translator (no AI functions).
+A screen OCR translator for computers.
 
-- **One-drag Text Extraction from the Screen**
-- **One-drag Translation**
+One-drag:
+- **Text Extraction from the Screen**
+- **Multilingual Translation**
 - **QR Code Scanning**
 
 > ### [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
