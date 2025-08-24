@@ -19,7 +19,7 @@ Brush-LM is an AI tool that is being developed. It is currently a translator (no
 
 # ◈ How to Set Up the App?
 
-- ### MacOS:
+- ### MacOS (silicon):
 
   > Note: **>> This app is Not Damaged! <<**
 
