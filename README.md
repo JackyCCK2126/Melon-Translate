@@ -6,7 +6,7 @@ One-drag:
 - **Multilingual Translation**
 - **QR Code Scanning**
 
-> ### [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
+[aa](#◈-Set-Up-guide)
 
 ## Features
 1. Clean UI, Headless (Not occupying screen space, set it and forget it)
@@ -18,7 +18,9 @@ One-drag:
 
 [demo](https://github.com/user-attachments/assets/9f2c91e3-3b09-4019-9a2f-c619dff50f40)
 
-# ◈ How to Set Up the App?
+# ◈ Set Up guide
+
+> [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
 
 - ### MacOS (silicon):
 
