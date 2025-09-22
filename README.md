@@ -6,7 +6,7 @@ One-drag:
 - **Multilingual Translation**
 - **QR Code Scanning**
 
-> Scroll down to install
+> **Scroll down to install**
 
 ## Features
 1. Clean UI, Headless (Not occupying screen space, set it and forget it)
