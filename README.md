@@ -6,7 +6,7 @@ One-drag:
 - **Multilingual Translation**
 - **QR Code Scanning**
 
-[aa](#◈-Set-Up-guide)
+> Scroll down to install
 
 ## Features
 1. Clean UI, Headless (Not occupying screen space, set it and forget it)
@@ -18,13 +18,13 @@ One-drag:
 
 [demo](https://github.com/user-attachments/assets/9f2c91e3-3b09-4019-9a2f-c619dff50f40)
 
-# ◈ Set Up guide
+# ◈ Setup Guide
 
 > [Downloads](https://github.com/JackyCCK2126/Melon-Translate/releases)
 
-- ### MacOS (silicon):
+### MacOS (silicon):
 
-  > Note: **>> This app is Not Damaged! <<**
+  <pre> Note: This app is Not Damaged! </pre>
 
   1. Drag the app into the Applications folder
   2. Run the following command in **Terminal** app to repair the app\
@@ -37,7 +37,7 @@ One-drag:
 
 <br>
 
-- ### Windows:
+### Windows:
 
   - Not supported yet.
 
