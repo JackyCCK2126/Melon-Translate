@@ -48,6 +48,6 @@ Things done in one drag:
 # ◈ Security Information
 
 - No data is collected by the author
-- OCR relies on the local Tesseract engine by Google
+- The OCR uses Google's Tesseract engine, running locally on your machine.
 - Translation service (online): googletrans
-- Captured image is deleted immediately from the cache after text-scanning
+- Captured image is deleted immediately from the cache after scanning for text.
