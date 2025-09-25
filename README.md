@@ -1,9 +1,9 @@
 # ◈ Introduction
 A screen OCR translator for computers.
 
-One-drag:
+Things done in one drag:
 - **Text Extraction from the Screen**
-- **Multilingual Translation**
+- **Multilingual Translation** (can also translate HTML code to rendered form)
 - **QR Code Scanning**
 
 > **Scroll down to install**
