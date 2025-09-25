@@ -26,7 +26,7 @@ Things done in one drag:
 
   <pre> Note: This app is Not Damaged! </pre>
 
-  1. Drag the app into the Applications folder
+  1. Drag the app from the `.dmg` into the Applications folder
   2. Run the following command in **Terminal** app to repair the app\
   **👉 ` xattr -d com.apple.quarantine '/Applications/Melon Translate.app' `**
 
